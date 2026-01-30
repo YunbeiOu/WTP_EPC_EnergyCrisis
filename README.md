@@ -1,4 +1,4 @@
-# Willingness-to-pay for energy efficient homes: new insights from the 'energy crisis' in the UK
+# Willingness-to-pay for energy-efficient homes: new insights from the 'energy crisis' in Greater Manchester, UK
 
 > Authors: Yunbei Ou, Nick Bailey, David Philip McArthur, Qunshan Zhao
 
