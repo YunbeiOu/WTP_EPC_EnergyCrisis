@@ -3,7 +3,7 @@
 > Authors: Yunbei Ou, Nick Bailey, David Philip McArthur, Qunshan Zhao
 
 ## Notebooks
-The jupyter notebooks include python code to produce all the results in the research paper. 
+The jupyter notebooks include python code to produce all the results in the research paper (paper accepted by the journal of Energy Research & Social Science; preprint available at: https://osf.io/preprints/socarxiv/m5d7n_v2). 
 
 ## Data
 The Zoopla sales listings data with the standard identifier i.e. the Unique Property Reference Number (UPRN) is not openly available due to data privacy laws, but the same data without UPRN is held under licence by UBDC which can be downloaded upon request: https://data.ubdc.ac.uk/dataset/be951b83-df1f-4a10-bc11-7c8840a4a514. 
